@@ -1,0 +1,1 @@
+{"name":"Local: --Bit++","url":"d:\\Coding\\DSA\\Practised_Question\\Question_Name\\--Bit++.cpp","tests":[{"id":1693250949275,"input":"7\nx--\n++x\nx++\n++x\n--x\n--x\nx--","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\DSA\\Practised_Question\\Question_Name\\--Bit++.cpp","group":"local","local":true}
