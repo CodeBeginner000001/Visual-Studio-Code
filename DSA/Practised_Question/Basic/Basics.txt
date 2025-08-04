@@ -1,0 +1,27 @@
+> Data loss doesn't occur for every type of conversion and the risk depends on what type of conversion is done and in which direction
+ * Widening Conversion : A value is converted to a datatype that can hold a larger range of values or high precision. i.e., -> from small range datatype to a large range datatype
+   -> Converting an int to a double is safe as double can store all the integer values and has high precision
+ * Narrowing Conversion :  A value is converted to a datatype that can hold or has smaller range or lower precision than the original one. 
+   -> In this case we have data loss. The values are truncated to store the value in smaller range datatype.
+   -> For Eg: converting a float to an int will truncate the decimal part lossing precision in the data.
+ * Conversion between Signed and UnSigned Type : converting in between these two type can cause data loss and unexpected behaviour.
+   -> converting a signed integer to an unsigned integer may result in very large positive number.
+
+> All the character in C++ is mapped to a value that is stored in the table known as ASCII table. So from there the value of char can observed
+> The Datatypes helps the computer to indentity what type of value is stored since the values are stored in the binary form then how computer 
+  will be able to identify the difference wheather the integer value that is a number is stored or a character here when datatype comes into 
+  play. It helps computer to indentify wheater the number or the character is stored in the memory block.
+> Now if we try to store a negative value in the unsigned datatype then due to must significate bit which will be 1 , after taking 2's complement 
+  since we are trying to store neg. value the value is stored in the 2's complement form and since it is unsigned it will treat the stored value 
+  as positive and it will be shown without taking 2's complement again.
+
+> Operators : 
+ * Dividing
+   -> int/int - int
+   -> float/int - float
+   -> double/int - double
+   The condition to observer is that the data type should be the same as numberator then only this can be observed else the value that is 
+   allowed to be shown through that datatype will be shown. 
+ * Module Operator
+  -> 5%2 = 1
+  -> 5%3 = 2

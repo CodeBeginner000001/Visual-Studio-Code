@@ -1,0 +1,43 @@
+Question 1. Find Unqiue Element using Bitwise Operator ? You have given a set of number in that set of number every number
+            is repeated twice except one number find that number ?
+Answer 1: I will use XOR in the bitwise Operator which and apply it to each number in the set the same once will give be 0
+          and i will end up with one number and when 0 XOR with the number, i will get the unqiue number.
+
+> Right Shift Bitwise Operator : When Signed integer then ouput will be correct according to the formula that is a/2^n but 
+  logically is should not be correct.
+  But if we have an unsigned integer then output is not correct and then output will be the value of the value denoted by
+  32 bit having the highest bit as 1
+  * For Signed integer: Logical Output
+  -> int n = -5
+  -> memory level      = 11111111 11111111 11111111 11111011 (2's Complement)
+  -> right shift by 1  = 01111111 11111111 11111111 11111101 
+  -> decimal value     = 2147483645
+  but the value we will get will be -3
+
+  * For Unsigned integer: Logical Output
+  -> unsigned int n = -5
+  -> memory level      = 11111111 11111111 11111111 11111011 (2's Complement)
+  -> right shift by 1  = 01111111 11111111 11111111 11111101 
+  -> decimal value     = 2147483645
+  output value will be same as decimal value
+
+> If any number is shift by negative shift value then we will get the garbage value 
+
+> Pre/Post Increment/Decrement
+* Pre-Increment (++a): First Increment then use
+* Post-Increment (a++): First use and then Increment
+* Pre-Decrement (--a): First Decrement then use
+* Post-Decrement (a--): First use then Decrement
+
+> Implicit Type Casting
+- Aka, Automatic Type conversion
+- Complier automatically converts one data type to another during an operation.
+- This happens when you perform operations involving variables of different data types, and the compiler 
+  promotes one type to a larger type to maintain precision.
+
+> Explicit Type Casting
+- Aka, Manual type conversion
+- Allows you to explicity specify the desired data type during an asssignment or operation.
+- How to use > by adding parentheses containing the target data type.
+
+> The good use for typecasting is to allow division of two integers to return a decimal value
