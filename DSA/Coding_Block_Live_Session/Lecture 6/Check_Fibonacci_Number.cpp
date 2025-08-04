@@ -38,7 +38,6 @@ int main()
             c = a + b;
             if (c == n)
             {
-                cout << i << endl;
                 cout << "True";
                 break;
             }

@@ -1,6 +1,6 @@
 /*
 WAP to print given pattern
-Inpu
+Input
 5
 
 Output

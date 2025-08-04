@@ -8,7 +8,7 @@ Input: 5
 Output: 15
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int main()
 {

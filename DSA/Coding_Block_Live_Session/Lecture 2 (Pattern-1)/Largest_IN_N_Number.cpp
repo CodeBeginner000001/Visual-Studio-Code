@@ -23,9 +23,9 @@ int main()
 {
     int n, larger, i = 1, b;
     cin >> n;
+    larger = INT_MIN;
     while (i <= n)
     {
-        larger = INT_MIN;
         cin >> b;
         if (larger < b)
         {

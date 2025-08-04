@@ -26,12 +26,9 @@ int main()
         if (n % i == 0)
         {
             cout << "Not Prime";
-            break;
+            return 0;
         }
         i += 1;
     }
-    if (i == n)
-    {
-        cout << "Prime";
-    }
+    cout << "Prime";
 }
