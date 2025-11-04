@@ -83,14 +83,14 @@ int main()
     /* Explicit Casting */
     double pi = 3.14159265;
     int intpi = (int)pi;
-    cout<< "Converting floating value to integer value : " << intpi <<endl;
+    cout<< "Converting double value to integer value : " << intpi <<endl;
 
     float floatingNumber = 65.345;
     char charValue = (char)floatingNumber;
     cout<< "Converting floating value to char value : " << charValue <<endl;
 
     int q = 10;
-    int w = 3.0;
+    int w = 3;
     float m = q/((float)w);
     cout<< "Converting integer value to float value : " << m << endl;
 }

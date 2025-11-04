@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "*.ejs": "html",
+        ".env*": "dotenv",
+        "ratio": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp"
+    }
+}

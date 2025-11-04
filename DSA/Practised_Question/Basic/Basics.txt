@@ -11,8 +11,8 @@
 > The Datatypes helps the computer to indentity what type of value is stored since the values are stored in the binary form then how computer 
   will be able to identify the difference wheather the integer value that is a number is stored or a character here when datatype comes into 
   play. It helps computer to indentify wheater the number or the character is stored in the memory block.
-> Now if we try to store a negative value in the unsigned datatype then due to must significate bit which will be 1 , after taking 2's complement 
-  since we are trying to store neg. value the value is stored in the 2's complement form and since it is unsigned it will treat the stored value 
+> Now if we try to store a negative value in the unsigned datatype then due to most significate bit which will be 1 , after taking 2's complement 
+  since we are trying to store neg. value, the value is stored in the 2's complement form and since it is unsigned it will treat the stored value 
   as positive and it will be shown without taking 2's complement again.
 
 > Operators : 
