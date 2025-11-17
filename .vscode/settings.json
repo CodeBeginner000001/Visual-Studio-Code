@@ -6,6 +6,7 @@
         ".env*": "dotenv",
         "ratio": "cpp",
         "iostream": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "new": "cpp"
     }
 }
