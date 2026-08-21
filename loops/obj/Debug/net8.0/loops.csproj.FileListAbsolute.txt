@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/loops/bin/Debug/net8.0/loops
+/Users/ashu/Desktop/Visual-Studio-Code/loops/bin/Debug/net8.0/loops.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/loops/bin/Debug/net8.0/loops.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/loops/bin/Debug/net8.0/loops.dll
+/Users/ashu/Desktop/Visual-Studio-Code/loops/bin/Debug/net8.0/loops.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.dll
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/refint/loops.dll
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/loops.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/loops/obj/Debug/net8.0/ref/loops.dll

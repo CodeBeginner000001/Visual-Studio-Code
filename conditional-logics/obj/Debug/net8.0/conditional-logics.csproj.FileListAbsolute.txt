@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/bin/Debug/net8.0/conditional-logics
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/bin/Debug/net8.0/conditional-logics.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/bin/Debug/net8.0/conditional-logics.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/bin/Debug/net8.0/conditional-logics.dll
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/bin/Debug/net8.0/conditional-logics.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.dll
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/refint/conditional-logics.dll
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/conditional-logics.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/conditional-logics/obj/Debug/net8.0/ref/conditional-logics.dll

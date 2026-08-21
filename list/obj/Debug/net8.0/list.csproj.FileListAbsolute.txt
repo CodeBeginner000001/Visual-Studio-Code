@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/list/bin/Debug/net8.0/list
+/Users/ashu/Desktop/Visual-Studio-Code/list/bin/Debug/net8.0/list.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/list/bin/Debug/net8.0/list.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/list/bin/Debug/net8.0/list.dll
+/Users/ashu/Desktop/Visual-Studio-Code/list/bin/Debug/net8.0/list.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.dll
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/refint/list.dll
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/list.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/list/obj/Debug/net8.0/ref/list.dll

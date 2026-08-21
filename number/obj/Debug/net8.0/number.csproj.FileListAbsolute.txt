@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/number/bin/Debug/net8.0/number
+/Users/ashu/Desktop/Visual-Studio-Code/number/bin/Debug/net8.0/number.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/number/bin/Debug/net8.0/number.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/number/bin/Debug/net8.0/number.dll
+/Users/ashu/Desktop/Visual-Studio-Code/number/bin/Debug/net8.0/number.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.dll
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/refint/number.dll
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/number.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/number/obj/Debug/net8.0/ref/number.dll

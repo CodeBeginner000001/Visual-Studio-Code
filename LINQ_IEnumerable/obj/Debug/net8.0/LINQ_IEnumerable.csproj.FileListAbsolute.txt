@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/bin/Debug/net8.0/LINQ_IEnumerable
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/bin/Debug/net8.0/LINQ_IEnumerable.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/bin/Debug/net8.0/LINQ_IEnumerable.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/bin/Debug/net8.0/LINQ_IEnumerable.dll
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/bin/Debug/net8.0/LINQ_IEnumerable.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.dll
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/refint/LINQ_IEnumerable.dll
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/LINQ_IEnumerable.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/LINQ_IEnumerable/obj/Debug/net8.0/ref/LINQ_IEnumerable.dll

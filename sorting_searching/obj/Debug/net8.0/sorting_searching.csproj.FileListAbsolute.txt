@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/bin/Debug/net8.0/sorting_searching
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/bin/Debug/net8.0/sorting_searching.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/bin/Debug/net8.0/sorting_searching.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/bin/Debug/net8.0/sorting_searching.dll
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/bin/Debug/net8.0/sorting_searching.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.dll
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/refint/sorting_searching.dll
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/sorting_searching.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/sorting_searching/obj/Debug/net8.0/ref/sorting_searching.dll

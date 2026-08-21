@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/strings/bin/Debug/net8.0/strings
+/Users/ashu/Desktop/Visual-Studio-Code/strings/bin/Debug/net8.0/strings.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/strings/bin/Debug/net8.0/strings.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/strings/bin/Debug/net8.0/strings.dll
+/Users/ashu/Desktop/Visual-Studio-Code/strings/bin/Debug/net8.0/strings.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.dll
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/refint/strings.dll
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/strings.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/strings/obj/Debug/net8.0/ref/strings.dll

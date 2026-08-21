@@ -1,0 +1,14 @@
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/bin/Debug/net8.0/helloworld
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/bin/Debug/net8.0/helloworld.dll
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/bin/Debug/net8.0/helloworld.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.dll
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.pdb
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/Users/ashu/Desktop/Visual-Studio-Code/helloworld/obj/Debug/net8.0/ref/helloworld.dll
