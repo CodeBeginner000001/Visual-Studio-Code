@@ -42,3 +42,13 @@ class Circle extends Shape {
 
 String getStringValue()=> stdin.readLineSync().toString();
 double getDoubleValue()=> double.parse(getStringValue());
+
+/**
+ ** Then Why use Abstraction if defination is provided by the sub-class
+ So the parent class can enforce a rule and acts as a common blueprint, forcing every subclass
+ to provide its own definition.
+ ** This is used to enforce a contract - it helps to guaratees that every single subclass has specific methods.
+  If a new subclass forget to implement the required method then compiler will throw error
+ ** Helps to write Generic code
+ ** Share Common Code Abstract class can have both empty abstract method and fully working regular methods.
+ */
