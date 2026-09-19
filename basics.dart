@@ -35,7 +35,11 @@ void main() {
   print("The Sum of two numbers is ${add(no3, no4)}");
 
 }
-
+// [] brackets are used to define optional parameters in a function. If the optional parameters are not passed while calling the function, then the default value will be used.
+// In this case, c and d are optional parameters with default values of 0.
+// If we want to make the optional parameters mandatory, we can use the 'required' keyword in front of the parameter name.
+// {} braces are used to define named parameters in a function. Named parameters are optional by default, but we can use the 'required' keyword to make them mandatory while calling the function.
+// if this is written in {} brackets then we can call the function like this: add(a: 1, b: 2, c: 3, d: 4) or add(a: 1, b: 2) or add(a: 1, b: 2, c: 3) or add(a: 1, b: 2, d: 4)
 int add(int a, int b, [int c = 0, int d = 0]) {
   return a + b + c + d;
 }

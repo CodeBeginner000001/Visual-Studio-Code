@@ -12,21 +12,29 @@ void main() {
 
   // Immutable list
   final List<int> immutableNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  print("Immutable Numbers: $immutableNumbers");
   // Immutable list of strings
   final List<String> immutableNames = ['Raman', 'Rajeev', 'Raghav', 'Ramanujan'];
+  print("Immutable Names: $immutableNames");
   // Immutable list of booleans
   final List<bool> immutableBooleans = [true, false, true, false];
+  print("Immutable Booleans: $immutableBooleans");
   // Immutable list of doubles
   final List<double> immutableDoubles = [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0];
+  print("Immutable Doubles: $immutableDoubles");
 
   // List is a collection of objects of different types but mutable
   List mix = ['Raman', 'Rajeev', 'Raghav', 'Ramanujan', 85, true, 34.34];
+  print("Mix List: $mix");
   // List of numbers but mutable
   List<int> numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+  print("Numbers List: $numbers");
   // List of booleans but mutable
   List<bool> booleans = [true, false, true, false];
+  print("Booleans List: $booleans");
   // List of doubles but mutable
   List<double> doubles = [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0];
+  print("Doubles List: $doubles");
   
   // List of strings but mutable
   List<String> names = ['Raman', 'Rajeev', 'Raghav', 'Ramanujan'];
@@ -115,6 +123,7 @@ void main() {
    */
 
   // if type is not specified, it will be dynamic by default
+  // ignore: equal_elements_in_set (using this to ignore the warning of duplicate values in set)
   Set<String> directionSet = {"North", "South", "East", "West", "East", "North"};
   print("Direction Set: $directionSet");
   // Set stores only unique values, so duplicate values are not allowed.
